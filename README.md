@@ -1,21 +1,25 @@
-👋 Hi, I'm Aniket Dwivedi!
-🚀 Aspiring Tech Enthusiast | Full-Stack Developer | Data Science Explorer
+👋 Hi there, I'm Aniket Dwivedi!
+🎓 M.Tech'26 – IIIT Delhi
+💻 Full-Stack Developer | ML & NLP Enthusiast | Data Science Explorer
 
-I’m passionate about building innovative solutions that create real-world impact. With a strong foundation in full-stack development, machine learning, data science, and statistics, I enjoy transforming ideas into functional and user-centric products.
+I’m passionate about building innovative, real-world solutions that bridge the gap between technology and impact. With hands-on experience in full-stack development, machine learning, and natural language processing, I’ve developed projects that solve complex problems and deliver user-centric experiences.
 
-🌟 What I’m Working On:
-🔹 Enhancing my expertise in full-stack development to craft intuitive web applications.
-🔹 Diving deeper into machine learning and data-driven insights to solve complex problems.
-🔹 Exploring product development strategies to bring ideas to life.
+🚀 What I'm Currently Exploring:
+🔧 Crafting responsive and intuitive web applications using the latest full-stack technologies.
 
-💡 What Excites Me:
-✅ Collaborating on innovative projects that push technological boundaries.
-✅ Building solutions that combine creativity with functionality.
-✅ Connecting with like-minded developers, entrepreneurs, and innovators.
+🤖 Applying ML and NLP techniques to analyze, interpret, and generate meaningful insights from data.
 
-📫 Let's Connect!
-📧 Reach out at: ani22ket16@gmail.com
-💬 Always open to collaborations and exciting discussions.
+🧠 Building products that merge creativity and functionality, driven by real-world needs.
+
+🛠️ Some Things I’ve Built:
+✅ Intelligent web apps that integrate ML/NLP models with seamless frontend experiences.
+
+✅ Data-driven dashboards and analytics tools for actionable insights.
+
+✅ Scalable backend systems powering end-to-end solutions.
 
 "Innovation thrives when great minds come together — let's build something impactful!"
 
+🤝 Let’s Collaborate!
+📬 Email: ani22ket16@gmail.com
+🌐 Always open to discussions, collaborations, and tech brainstorming.
