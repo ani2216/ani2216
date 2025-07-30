@@ -40,6 +40,7 @@ I’m passionate about building innovative, real-world solutions that bridge the
 
 🍽️ Foodify – Your Smart Recipe & Meal Companion
 Foodify is a modern, intuitive web application designed to help users discover, explore, and manage recipes based on their dietary preferences, available ingredients, and cooking time. It simplifies meal planning and promotes healthy, personalized eating habits.
+
 [Foodify](https://ani2216.github.io/foodify-IP/)
 
 🚀 Key Features
