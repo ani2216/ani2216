@@ -31,8 +31,27 @@ I’m passionate about building innovative, real-world solutions that bridge the
 ---
 
 👨‍💻 Developer of **CodeMine** – A CSE community hub offering:
+-  [Link Text](https://codemine-one.vercel.app/)
 - 🎯 GATE CSE resources  
 - 🎓 Placement preparation content  
 - ⚡ Quick-access tools  
 - 🌟 Curated top GitHub profiles  
 - 📚 A rich, growing tech database
+
+🍽️ Foodify – Your Smart Recipe & Meal Companion
+Foodify is a modern, intuitive web application designed to help users discover, explore, and manage recipes based on their dietary preferences, available ingredients, and cooking time. It simplifies meal planning and promotes healthy, personalized eating habits.
+[Link Text](https://ani2216.github.io/foodify-IP/)
+🚀 Key Features
+🍲 Browse & Search Recipes – Search recipes by ingredients, cuisines, or dietary needs
+
+📋 Smart Filters – Apply filters like vegan, gluten-free, high-protein, low-carb, etc.
+
+🧑‍🍳 Step-by-step Cooking Instructions – Easy-to-follow instructions with cooking timers
+
+💡 Random Recipe Generator – Get inspired with a surprise meal suggestion
+
+🧺 Pantry Check – Enter available ingredients to find matching recipes
+
+💖 Favorites & Save for Later – Bookmark recipes you love
+
+🌐 Responsive Design – Works seamlessly on desktop, tablet, and mobile
